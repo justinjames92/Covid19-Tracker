@@ -30,6 +30,7 @@ function CovidTracker() {
             <Row>
               <Col md={10}>
                 <h1>COVID-19 tracker</h1>
+                <p>ghgh</p>
               </Col>
               <Col md={2}>
                 <select onChange={(e) => dropDown(e)}>
